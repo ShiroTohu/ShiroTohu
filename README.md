@@ -1,1 +1,1 @@
-$ Nihao bro.
+# Nihao bro.
