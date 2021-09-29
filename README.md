@@ -8,6 +8,7 @@ I am mainly familar with python, programming languages that I dabble in are:
 * HTML
 * CSS
 * Tiny bit of C#
+* Java
 
 I don't do much from that.
 
