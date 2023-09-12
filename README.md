@@ -3,7 +3,7 @@ CS Student that tries their hardest
 
 # Work
  - Working on ASCII video player & Other Projects
- - Currently Learning Design Patterns and how to better make Objects interface with each other
+ - Currently Learning Design Patterns
 
 # Skills
  - Python
