@@ -9,6 +9,8 @@ CS Student that tries their hardest
  - Python
  - C#
  - Node
+ - JavaScript
+ - Vite
  - HTML
  - CSS
  - Bootstrap
