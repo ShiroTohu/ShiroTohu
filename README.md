@@ -1,5 +1,5 @@
 # ShiroTohu
-CS Student that tries their hardest
+CS Student that tries their hardest. I like touhou.
 
 # Work
  - Working on ASCII video player & Other Projects
