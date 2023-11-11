@@ -2,8 +2,8 @@
 CS Student that tries their hardest. I like touhou.
 
 # Work
- - Working on ASCII video player & Other Projects
- - Currently Learning Design Patterns
+ - Currently working on portfolio website
+ - Currently learning design patterns
 
 # Skills
  - Python
