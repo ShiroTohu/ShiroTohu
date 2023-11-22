@@ -1,34 +1,14 @@
-# ShiroTohu
-YEP
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="40"/> Welcome To My Page!</h1>
 
-# Work
- - Currently working on portfolio website
- - Currently working on a VPN Guide
- - Currently learning design patterns
+<p>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
-# Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShiroTohu&theme=blueberry&date_format=j%20M%5B%20Y%5D&card_width=700&rank_icon=github)](https://git.io/streak-stats)
 
 ![ShiroTohu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShiroTohu&show_icons=true&theme=blueberry&card_width=700)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiroTohu&layout=donut&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-
-# Skills
- - Python
- - C#
- - Node
- - JavaScript
- - Vite
- - HTML
- - CSS
- - Bootstrap
- - JavaScript
- - Lua
- - Linux
- - Git
- - Blender
- - Flask
-
-# Gists
-I'm working a Gist rn, so I just wanted to see what it would look like on my readme page
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
