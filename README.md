@@ -30,4 +30,5 @@ YEP
  - Flask
 
 # Gists
+I'm working a Gist rn, so I just wanted to see what it would look like on my readme page
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
