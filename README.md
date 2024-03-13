@@ -20,7 +20,7 @@ with Python, C#, HTML, CSS, MySQL, and JavaScript. I also have experience with J
 though I am not confident in my ability to utilize those languages to their full extent! You can
 see the full list of programming languages and tooling below!
 
----
+<br>
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
