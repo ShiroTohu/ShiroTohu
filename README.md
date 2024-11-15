@@ -37,7 +37,9 @@ see the full list of programming languages and tooling below!
     srcset="https://github-readme-stats.vercel.app/api?username=shirotohu&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=shirotohu&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shirotohu&show_icons=true" width=50%/>
 </picture>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/shirotohu?theme=dark&font=Noto%20Sans%20Mro)
+<picture>
+  <img src="https://leetcard.jacoblin.cool/shirotohu?theme=dark&font=Noto%20Sans%20Mro" width=50%/>
+</picture>
