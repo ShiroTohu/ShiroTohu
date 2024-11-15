@@ -2,25 +2,11 @@
 I am Shirotohu, I'm a programmer that mainly specializes in front-end development.
 </pre>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=shirotohu&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=shirotohu&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=shirotohu&show_icons=true" />
-</picture>
-
 I have been programming for about 4 years now. In where I have worked with compiled languages,
 interpreted languages, computer networking, websites, 3D Modelling and much more. I am proficient
 with Python, C#, HTML, CSS, MySQL, and JavaScript. I also have experience with Java, Lua, PHP and Arduino
 though I am not confident in my ability to utilize those languages to their full extent! You can
 see the full list of programming languages and tooling below!
-
-<br>
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -41,3 +27,17 @@ see the full list of programming languages and tooling below!
   <img alt="Blender" src="https://img.shields.io/badge/Blender-orange?style=flat-square&logo=Blender&logoColor=white" />
   <img alt="Mitsubishi" src="https://img.shields.io/badge/Mitsubishi-ff0000?style=flat-square&logo=mitsubishi&logoColor=white" />
 </p>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=shirotohu&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=shirotohu&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=shirotohu&show_icons=true" />
+</picture>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/shirotohu?theme=dark&font=Noto%20Sans%20Mro)
