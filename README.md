@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm <a href="https://shirotohu.dev">shirotohu</a>!</h1>
+<h1 align="center">Hello, I'm <a href="https://shirotohu.dev">ShiroTohu</a>!</h1>
 
 **Welcome to my GitHub Profile**
 
