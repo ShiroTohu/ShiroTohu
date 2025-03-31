@@ -2,7 +2,7 @@
 
 **Welcome to my GitHub Profile**
 
-I like Arch, computer networking and programming. I'm studying computer science. Currently working on getting my security+ and working on personal projects for development experience. My favourite languages include JavaScript and Python.
+I like Arch, computer networking and programming. I'm studying computer science. Currently working on getting my security+ and working on personal projects for development experience. My favourite languages are JavaScript and Python.
 
 <!--
 <p>
@@ -36,12 +36,12 @@ I like Arch, computer networking and programming. I'm studying computer science.
       srcset="https://github-readme-stats.vercel.app/api?username=shirotohu&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=shirotohu&show_icons=true" width=47.8%/>
+    <img src="https://github-readme-stats.vercel.app/api?username=shirotohu&show_icons=true" width=47%/>
   </picture>
   
   <!-- Leet code, like half the time this is down -->
   <picture>
-    <img src="https://leetcard.jacoblin.cool/shirotohu?theme=dark&font=Noto%20Sans%20Mro" width=50% align="right"/>
+    <img src="https://leetcard.jacoblin.cool/shirotohu?theme=dark&font=Noto%20Sans%20Mro" width=49% align="right"/>
   </picture>
 </div>
 
