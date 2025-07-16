@@ -45,4 +45,4 @@ I like Arch, computer networking and programming. I'm studying computer science.
   </picture>
 </div>
 
-
+ <a href="https://tryhackme.com/p/ShiroTohu"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"></a> 
