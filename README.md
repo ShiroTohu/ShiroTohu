@@ -44,3 +44,5 @@ I like Arch, computer networking and programming. I'm studying computer science.
     <img src="https://leetcard.jacoblin.cool/shirotohu?theme=dark&font=Noto%20Sans%20Mro" width=49% align="right"/>
   </picture>
 </div>
+
+Activity has slowed as I have moved to Forgejo.
