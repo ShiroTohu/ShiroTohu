@@ -2,4 +2,4 @@
 
 **Welcome to my GitHub Profile**
 
-I like Arch, computer networking and programming. I'm studying computer science. Currently working on personal projects and getting my security+ certificate. My favourite languages are JavaScript and Python.
+I like Arch, computer networking and programming. I'm studying computer science. Currently working on personal projects and getting my CCNA. My favourite languages are JavaScript and Python.
